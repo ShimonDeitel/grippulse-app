@@ -1,0 +1,37 @@
+{
+  "identifier": "3F5D0A10-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Grippulse Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Left/right imbalance charts and long-term trend view",
+              "displayName": "Grippulse Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "grippulse.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Grippulse Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": "1"
+}
